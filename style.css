@@ -6,8 +6,22 @@ body {
 h1 {
     color:black;
     text-align: center;
+    padding-left: 40px;
 }
 
-img {
-    text-align: center;
+div.container {
+    
+}
+
+ul {
+    text-align:center;
+    list-style: none;
+}
+
+li {
+    background-color:gray;
+    margin: 10px auto;
+    width: 200px;
+    color:white;
+   
 }
